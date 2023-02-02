@@ -1,0 +1,21 @@
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\bin\Debug\MultiLayerGUI.exe.config
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\bin\Debug\MultiLayerGUI.exe
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\bin\Debug\MultiLayerGUI.pdb
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.AssemblyReference.cache
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.GUIForm.resources
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.Properties.Resources.resources
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.GenerateResource.cache
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.CoreCompileInputs.cache
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.exe
+C:\Users\MelanieB\OneDrive\IT481 - Programming Class\MultiLayerGUI\obj\Debug\MultiLayerGUI.pdb
+C:\GitHubSchool\IT481\MultiLayerGUI\bin\Debug\MultiLayerGUI.exe.config
+C:\GitHubSchool\IT481\MultiLayerGUI\bin\Debug\MultiLayerGUI.exe
+C:\GitHubSchool\IT481\MultiLayerGUI\bin\Debug\MultiLayerGUI.pdb
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.AssemblyReference.cache
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.GUIForm.resources
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.Login.resources
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.Properties.Resources.resources
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.GenerateResource.cache
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.csproj.CoreCompileInputs.cache
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.exe
+C:\GitHubSchool\IT481\MultiLayerGUI\obj\Debug\MultiLayerGUI.pdb
